@@ -100,3 +100,9 @@ dashboard_2_recommendation.png
 - `EU_Logistics_Dashboard.pbix` — Power BI dashboard and data model
 - `EU_Logistics_Expansion_Business_Paper.docx` — Business research paper and analysis
 - `README.md` — Project documentation
+- 
+## Dashboard Preview
+
+![Dashboard Scoring](assets/dashboard_1_scoring.png)
+
+![Dashboard Recommendation](assets/dashboard_2_recommendation.png)

@@ -93,8 +93,10 @@ Further commercial due diligence would therefore be required before making an ac
 - dashboard_1_scoring.png
 dashboard_2_recommendation.png
 
+
+
 ## Project Files
 
 - `EU_Logistics_Dashboard.pbix` — Power BI dashboard and data model
-- `EU_Logistics_CaseStudy_Professional.pdf` — Business research paper and analysis
+- `EU_Logistics_Expansion_Business_Paper.docx` — Business research paper and analysis
 - `README.md` — Project documentation
